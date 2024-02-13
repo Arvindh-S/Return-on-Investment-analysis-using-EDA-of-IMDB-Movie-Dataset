@@ -1,4 +1,4 @@
-# Return-on-Investment-analysis-using-EDA-of-IMDB-Movie-Dataset
+# Return on Investment analysis using EDA of IMDB Movie Dataset
 ## Introduction:
 Return on Investment (ROI) analysis using Exploratory Data Analysis of IMDB Movie Dataset for Sussex Budget Production
 In their most recent film, Sussex Budget Production invested £500K and collected only £100K as their return, which is basically -80% of the return on investment (ROI).
